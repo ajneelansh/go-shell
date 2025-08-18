@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-  port := godotenv.Load("PORT")
+  port := godotenv.Load
 }
