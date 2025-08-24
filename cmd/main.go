@@ -44,7 +44,7 @@ func main(){
 		    case "echo":
 				built_ins.Echo(tokens)
 			case "which":
-				// built_ins.Which(tokens,initial_directory)
+				 built_ins.Which(tokens)
 			case "env":
 				// built_ins.Env(tokens,initial_directory)
 			case "pwd":
@@ -53,10 +53,6 @@ func main(){
 				return
 	  
 	 }
-
-
    }
-
-
   }
 }
