@@ -23,7 +23,7 @@ I built this project to understand the underlying concepts of process management
 - Executes built-ins directly.  
 - Spawns external processes using Go’s `os/exec` package.  
 - Connects commands via `io.Pipe()` for piping functionality.
-- 
+
 <img width="1541" height="800" alt="Screenshot from 2025-08-25 03-17-47" src="https://github.com/user-attachments/assets/db0e0284-1b6a-4c56-a86a-fe094fb3709f" />
 
 
